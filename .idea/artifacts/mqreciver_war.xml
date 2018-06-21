@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mqreciver:war">
+    <output-path>$PROJECT_DIR$/mqreciver/target</output-path>
+    <root id="archive" name="mqreciver.war">
+      <element id="artifact" artifact-name="mqreciver:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.1.8.RELEASE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

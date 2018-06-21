@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemqDemo1.iml" filepath="$PROJECT_DIR$/activemqDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mqreciver/mqreciver.iml" filepath="$PROJECT_DIR$/mqreciver/mqreciver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mqsender/mqsender.iml" filepath="$PROJECT_DIR$/mqsender/mqsender.iml" />
+    </modules>
+  </component>
+</project>
